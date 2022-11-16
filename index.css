@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer:wght@400;500;600&family=Open+Sans&display=swap');
+body {
+    height: 360px;
+    width: 90px;
+    padding: 0;
+}
+.wurth {
+    position: absolute;
+    left: 20px;
+    width: 130px;
+}
+.super {
+    position: absolute;
+    width: 60px;
+    left: 170px;
+}
+.caltex {
+    position: absolute;
+    width: 92px;
+    top: -5px;
+    right: 20px;
+}
+.h1 {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    font-size: 18px;
+    font-family: 'Noto Serif Khmer', serif;
+}
+h2 {
+    position: absolute;
+    top: 55px;
+    right: 10px;
+    font-size: 13px;
+     font-family: 'Noto Serif Khmer', serif;
+}
+.logo {
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: -10px;
+}
+.ford {
+    position: absolute;
+    top: 120px;
+    width: 170px;
+}
+.total {
+    position: absolute;
+    top: 200px;
+    font-family: 'Noto Serif Khmer', serif;
+    font-size: 15px;
+    left: 50px;
+}
+.luxus {
+    position: absolute;
+    top: 125px;
+    left: 150px;
+    width: 205px;
+}
+.ls {
+    position: absolute;
+    top: 200px;
+    font-family: 'Noto Serif Khmer', serif;
+    font-size: 15px;
+    left: 230px;
+}
+.hld {
+    position: absolute;
+    width: 180px;
+    top: 250px;
+}
+.camry {
+    position: absolute;
+    width: 180px;
+    top: 250px;
+    left:180px;
+}
+.prus {
+    position: absolute;
+    width: 170px;
+    top: 380px;
+    right: 10px;
+}
+.pru {
+    position: absolute;
+    font-size: 15px;
+    top: 470px;
+    font-family: 'Noto Serif Khmer', serif;
+    right: 40px;
+}
+.tacoma {
+    width: 170px;
+    position: absolute;
+    bottom: 220px;
+}
+.taco {
+    position: absolute;
+    bottom: 190px;
+    left: 60px;
+    font-size: 15px;
+     font-family: 'Noto Serif Khmer', serif;
+}
+.hl {
+    position: absolute;
+    top: 340px;
+    font-family: 'Noto Serif Khmer', serif;
+    font-size: 15px;
+    left: 55px;
+    
+}
+.cam {
+    position: absolute;
+    top: 340px;
+    font-family: 'Noto Serif Khmer', serif;
+    font-size: 15px;
+    left: 240px;
+}
+.jpg {
+    width: 360px;
+    position: absolute;
+    left: -1px;
+    top: 620px;
+}
+button {
+    position: absolute;
+    color: #ffffff;
+    background-color: rgba(91,106,220,0.87);
+    top: 400px;
+    left: 50px;
+    box-shadow: 0px -5px 10px 0px rgba(0.5, 0, 0.5, 0.5);
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    
+}
+.tel {
+    position: absolute;
+    top: 78px;
+    left: 90px;
+}
+.fb {
+    width: 30px;
+    position: absolute;
+    bottom: 150px;
+}
+.loca {
+    width: 30px;
+    position: absolute;
+    bottom: 110px;
+}
+.ff {
+    position: absolute;
+    bottom: 150px;
+    font-family: 'Open Sans', sans-serif;
+    left: 40px;
+}
+.lo {
+    position: absolute;
+    bottom: 110px;
+    font-size: 14px;
+    left: 40px;
+    font-family: 'Noto Serif Khmer', serif;
+}
+.tele {
+    width: 30px;
+    position: absolute;
+    bottom: 65px;
+}
+h5 {
+    position: absolute;
+    bottom: 35px;
+    left: 40px;
+    font-size: 20px;
+}
